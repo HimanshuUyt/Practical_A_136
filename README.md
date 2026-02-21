@@ -24,7 +24,7 @@
 
 \### University: UTU
 
-!\[UTU Logo](images/logo1.png)
+!\[UTU Logo][(images/logo1.png)](https://github.com/HimanshuUyt/Practical_A_136/tree/59905de1612df36744d38e429171ae68c7098cec/images)
 
 
 
