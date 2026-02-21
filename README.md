@@ -24,13 +24,13 @@
 
 \### University: UTU
 
-!\[UTU Logo](images/utu\_logo.png)
+!\[UTU Logo](images/logo1.png)
 
 
 
 \### Department: SRIMCA
 
-!\[SRIMCA Logo](images/srimca\_logo.png)
+!\[SRIMCA Logo](images/logo2.png)
 
 
 
