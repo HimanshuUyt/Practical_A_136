@@ -4,8 +4,8 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
-| Thakkar Himanshu | 202504104610136 | Set B |
-| Shiv | 202504104610038 | Set A |
+| Malek zaid | 202504104610135 | Set B |
+| Thakkar Himanshu | 202504104610136 | Set A |
 
 ---
 
