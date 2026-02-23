@@ -1,102 +1,44 @@
-\# ☁️ Cloud Computing with DevOps Practical
+# ☁️ Cloud Computing with DevOps Practical
 
-
-
-\## 👨‍🎓 Student Information
-
-
+## 👨‍🎓 Student Information
 
 | Name | Enrollment Number | Practical Set |
-
 |------|------------------|--------------|
-
-| Your Name | Your Enrollment No | Set A |
-
-
+| Bansi Kasaundra | 202504104610043 | Set B |
+| Shiv | 202504104610038 | Set A |
 
 ---
 
+## 🏫 Logos
 
+### University: UTU
+![UTU Logo](images/utu_logo.png)
 
-\## 🏫 Logos
-
-
-
-\### University: UTU
-
-!\[UTU Logo][(images/logo1.png)](https://github.com/HimanshuUyt/Practical_A_136/tree/59905de1612df36744d38e429171ae68c7098cec/images)
-
-
-
-\### Department: SRIMCA
-
-!\[SRIMCA Logo](images/logo2.png)
-
-
+### Department: SRIMCA
+![SRIMCA Logo](images/srimca_logo.png)
 
 ---
 
-
-
-\## 📚 Subject
-
+## 📚 Subject
 Cloud Computing with DevOps
 
-
-
 ---
 
+## 📖 Practical Overview
 
-
-\## 📖 Practical Overview
-
-
-
-This repository contains practical exercises and assignments related to \*\*Cloud Computing with DevOps\*\*.
-
-
+This repository contains practical exercises and assignments related to **Cloud Computing with DevOps**.
 
 It includes:
-
-\- Python programs  
-
-\- GitHub operations  
-
-\- Proper documentation  
-
-
+- Python programs  
+- GitHub operations  
+- Proper documentation  
 
 ---
 
+## 📝 Notes
 
-
-\## 📝 Notes
-
-
-
-\- Each practical task is organized in separate files  
-
-\- Requirements file contains all dependencies  
-
-\- Images and screenshots are added for clarity  
-
-
+- Each practical task is organized in separate files  
+- Requirements file contains all dependencies  
+- Images and screenshots are added for clarity  
 
 ---
-
-
-
-\## 📷 Screenshots
-
-
-
-\### Program Output
-
-!\[Output](images/output.png)
-
-
-
-\### Project Structure
-
-!\[Structure](images/structure.png)
-
