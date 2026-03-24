@@ -5,7 +5,7 @@
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
 | Vaghela Parth | 202504104610127 | Set B |
-| Thakkar Himanshu | 202504104610136 | Set A |
+| Borad Avani | 202504104610136 | Set A |
 
 ---
 
