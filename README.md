@@ -4,7 +4,7 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
-| Malek zaid | 202504104610135 | Set B |
+| Vaghela Parth | 202504104610127 | Set B |
 | Thakkar Himanshu | 202504104610136 | Set A |
 
 ---
