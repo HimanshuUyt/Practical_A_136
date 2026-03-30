@@ -5,7 +5,7 @@
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
 | Smit Mavani | 202504104610097 | Set B |
-| - | 202504104610147 | Set A |
+| - | 202504104610148 | Set A |
 
 ---
 
