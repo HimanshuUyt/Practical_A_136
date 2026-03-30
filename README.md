@@ -4,8 +4,8 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
-| Malik Zaid | 202504104610127 | Set B |
-| Thakkar Himanshu | 202504104610136 | Set A |
+| Smit Mavani | 202504104610097 | Set B |
+| - | 202504104610147 | Set A |
 
 ---
 
